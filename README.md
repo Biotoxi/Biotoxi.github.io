@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>BioNews.com</title>
+  <title>BioNews</title>
  </head>
  <body>
   <h1>BioNews</h1>
