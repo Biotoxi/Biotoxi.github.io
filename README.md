@@ -1,5 +1,3 @@
+<h1>Traeden Reiter</h1>
 
-  <h1>BioNews</h1>
-  <h3>Its Raining cats and dogs</h3>
-  <a href="https://github.com/Biotoxi/Biotoxi.github.io/blob/main/Html%20Code/TraedenReiterOnlineNewsArticle.html" target="_blank">News article</a>
-  <p>Cats and dogs have been found falling out of trees in a local neighborhood.</p>
+<p><a href="Biotoxi.github.io/Html Code/TraedenReiterOnlineNewsArticle.html" target="blank">Assignment 1</a></p>
