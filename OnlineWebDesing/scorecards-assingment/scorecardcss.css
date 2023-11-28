@@ -1,7 +1,5 @@
-
-
-table {
+table,th,td {
     border: 1px;
-    border-color: black;
+    border-color: solid black;
     border-radius: 5px;
 }
