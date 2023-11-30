@@ -1,6 +1,7 @@
 table, tr,td, th {
     border: 1px solid black;
     border-radius: 5px;
+    border-image: url(https://media.gcflearnfree.org/ctassets/topics/246/share_flower_fullsize.jpg);
 }
 table.center {
     margin-left: auto; 
