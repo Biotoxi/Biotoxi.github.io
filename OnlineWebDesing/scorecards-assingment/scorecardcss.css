@@ -7,15 +7,13 @@ table.center {
     margin-right: auto;
 }
 body {
-    background-color: grey;
+    text-align: center;
 }
-.background {
-    align-items: center;
-	background-color: rgb(240, 128, 128, 0.6); 
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	width: 75%;
-	border: 15px solid rgb(139, 0, 0, 0.6);
-	border-radius: 5px;
-	padding: 50px;
-	margin: auto;
+
+div {
+    background-color: aliceblue;
+}
+
+div:hover {
+    background-color: azure;
 }
