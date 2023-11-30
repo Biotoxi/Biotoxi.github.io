@@ -11,10 +11,11 @@ body {
     text-align: center;
 }
 
-div {
+td {
     background-color: aliceblue;
 }
 
-div:hover {
+td:hover {
     background-color: azure;
+    
 }
