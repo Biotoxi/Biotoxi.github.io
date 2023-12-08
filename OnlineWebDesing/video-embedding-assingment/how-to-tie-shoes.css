@@ -1,0 +1,19 @@
+div.body {
+	background-color: aliceblue;
+	border:3px solid black;
+	border-radius: 10px;
+}
+
+div.steps {
+	text-aling:left;
+	margin-left: 50px;
+}
+
+p {
+	margin-left:20px;
+}
+
+iframe,img {
+	border:2px solid black;
+	border-radius: 10px;
+}
