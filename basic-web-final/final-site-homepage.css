@@ -53,8 +53,24 @@ div.transbox {
     opacity: 0.6;
     background-image: url(https://www.sportmaster.net/wp-content/uploads/2017/02/TrackMaster-Plus-Red-1024x765.jpg);
     padding: 20px;
+    padding-top: 10%;
 }
 
+table {
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+th {
+    font-size: larger;
+
+}
+
+.tableheader {
+    font-size: x-large;
+}
 
 body {
     
